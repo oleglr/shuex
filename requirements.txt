@@ -1,2 +1,2 @@
-vk.py
+vk.py==1.0.0a4
 toml
